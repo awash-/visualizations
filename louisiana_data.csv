@@ -1,4 +1,4 @@
-yr,fatals,ser_inj,fatal_rate,ser_inj_rate,impaired,speeding
+yr,fatals,ser_inj,fatal_rate,ser_inj_rate,impaired,speeding,not_started,underway,completed,early_prog,ongoing
 2005,963,1832,2.15,4.07,334,270
 2006,987,1792,2.17,3.95,371,260
 2007,993,1847,2.18,4.07,375,256
@@ -10,4 +10,4 @@ yr,fatals,ser_inj,fatal_rate,ser_inj_rate,impaired,speeding
 2013,703,1330,1.47,2.78,232,193
 2014,737,1348,1.53,2.79,247,204
 2015,752,1388,1.54,2.9,245,171
-2016,758,1402,1.54,2.9,225,173
+2016,758,1402,1.54,2.9,225,173,25,10,5,15,10,30
